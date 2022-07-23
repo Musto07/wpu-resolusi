@@ -1,2 +1,2 @@
-# wpu-resolusi
-Repository untuk meyimpan rencana WPU kedepannya
+# Musto-resolusi
+Repository untuk meyimpan rencana Musto kedepannya
